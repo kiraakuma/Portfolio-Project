@@ -1,6 +1,6 @@
 # Data Analyst Job Market Analysis (September 2024)
 Project Overview
-This project aims to analyze the Data Analyst job vacancies in September 2024 by web scraping data from Indeed using an open-source parser. The dataset is processed, cleaned, and transformed using Python, with further manual review and cleaning in Excel. A Power BI dashboard was created to visualize key insights, answering the following questions:
+This project aims to analyze the Data Analyst job vacancies in September 2024 by web scraping data from **Indeed** using an open-source parser. The dataset is processed, cleaned, and transformed using **Python**, with further manual review and cleaning in **Excel**. A **Power BI** dashboard was created to visualize key insights, answering the following questions:
 
 What is the average salary for Data Analysts?
 What are the most required technical and soft skills?
