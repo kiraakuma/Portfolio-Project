@@ -1,5 +1,6 @@
 # Data Analyst Job Market Analysis in Austria (September 2024)
 ## Project Overview
+The full report can be viewed in `indeed_24_report_analyst.pdf`
 
 This project aims to analyze the Data Analyst job vacancies in Austria in September 2024 by web scraping data from **Indeed** using an open-source parser. The dataset is processed, cleaned, and transformed using **Python**, with further manual review and cleaning in **Excel**. A **Power BI** dashboard was created to visualize key insights, answering the following questions:
 
