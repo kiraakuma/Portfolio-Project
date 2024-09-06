@@ -39,7 +39,7 @@ After exporting the cleaned data to Excel, I performed a final proof by cross-ch
 
 4. Data Analysis and Visualization in Power BI
 
-I imported the cleaned Excel file into Power BI to create a simple yet effective dashboard to visualize: Mean Salary of Data Analysts in Austria, Top Required Technical and Soft  Skills, Salary dependence on experience level and location, Popular Industries with the highest demand for Data Analysts and Top Employer with the most job vacancies. The complete overview can be viewed in the `report.pdf` file.
+I imported the cleaned Excel file into Power BI to create a simple yet effective dashboard to visualize: Mean Salary of Data Analysts in Austria, Top Required Technical and Soft  Skills, Salary dependence on experience level and location, Popular Industries with the highest demand for Data Analysts and Top Employer with the most job vacancies. The complete overview can be viewed in the `indeed_24_report_analyst.pdf` file.
 
 
 #### Key Insights
